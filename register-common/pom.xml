@@ -5,14 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.holos</groupId>
-    <artifactId>register</artifactId>
+    <artifactId>register-common</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-    <modules>
-        <module>register-client</module>
-        <module>register-server</module>
-        <module>register-common</module>
-    </modules>
 
     
 </project>

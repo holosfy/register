@@ -1,4 +1,4 @@
-package com.holos.register.client;
+package com.holos.register;
 
 /**
  * 注册响应

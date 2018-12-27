@@ -1,4 +1,4 @@
-package com.holos.register.client;
+package com.holos.register.heartbeat;
 
 /**
  * 心跳响应

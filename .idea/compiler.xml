@@ -8,11 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="register" />
         <module name="register-client" />
+        <module name="register-common" />
+        <module name="register-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="register" target="1.5" />
       <module name="register-client" target="1.5" />
+      <module name="register-common" target="1.5" />
+      <module name="register-server" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/register.iml" filepath="$PROJECT_DIR$/.idea/register.iml" />
       <module fileurl="file://$PROJECT_DIR$/register-client/register-client.iml" filepath="$PROJECT_DIR$/register-client/register-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register-common/register-common.iml" filepath="$PROJECT_DIR$/register-common/register-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register-server/register-server.iml" filepath="$PROJECT_DIR$/register-server/register-server.iml" />
     </modules>
   </component>
 </project>

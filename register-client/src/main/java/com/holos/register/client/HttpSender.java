@@ -1,5 +1,10 @@
 package com.holos.register.client;
 
+import com.holos.register.RegisterRequest;
+import com.holos.register.RegisterResponse;
+import com.holos.register.heartbeat.HeartbeatRequest;
+import com.holos.register.heartbeat.HeartbeatResponse;
+
 /**
  * 发送Http请求组件
  */
